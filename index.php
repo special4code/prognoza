@@ -82,7 +82,5 @@
 
 	</div>
 
-	<!--komentar-->
-
 </body>
 </html>

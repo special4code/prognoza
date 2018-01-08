@@ -15,7 +15,7 @@
 	// $icon=$clima->weather[0]->icon.".png";
 
 	//datum i ime grada
-	$today = date("d. F Y., H:i")
+	$today = date("d. F Y., H:i");
 	$cityname = $clima->name;
 
 	if ($description == "broken clouds") {
